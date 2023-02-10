@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ckrazaditya
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on CSS 
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python and SQL.
+- 💞️ I’m looking to collaborate on MAchine Learning. 
 - 📫 How to reach me
 
 <!---
